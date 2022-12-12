@@ -20,6 +20,7 @@ int main(void)
 	printf("Size of long int: %zu byte(s)\n", sizeof(b));
 	printf("Size of long long int: %zu byte(s)\n", sizeof(c));
 	printf("Size of float: %zu byte(s)\n", sizeof(floatType));
+	return (0);
 }
 
 
