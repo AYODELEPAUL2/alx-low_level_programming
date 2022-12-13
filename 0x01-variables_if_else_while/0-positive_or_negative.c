@@ -1,9 +1,19 @@
 #include<stdlib.h>
 #include<stdio.h>
 #include<time.h>
-/*more headers goes there */
 
-/*betty style doc for function main goes there */
+/**
+ * main - Entry point
+ *
+ * Description - Appends 0, -ve , +ve
+ *
+ * Return: Always 0 (success)
+ */
+
+  /*more headers goes there */
+
+   /*betty style doc for function main goes there */
+
 int main(void)
 {
 	int n;
